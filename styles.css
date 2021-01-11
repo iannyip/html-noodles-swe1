@@ -5,3 +5,15 @@ body {
 .pictures {
   width: 400px;
 }
+
+.chickenpage {
+  background-image: url(https://cdn.inprnt.com/thumbs/16/5c/165c5af0a0ae78a574145608874fe14b.jpg?response-cache-control=max-age=2628000);
+  background-repeat: repeat-x repeat-y;
+  background-size: 40%;
+}
+
+.onionpage {
+  background-image: url(https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/socialmedia/emojipedia/181/onion_1f9c5.png);
+  background-repeat: repeat-x repeat-y;
+  background-size: 40%;
+}
